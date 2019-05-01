@@ -1,0 +1,11 @@
+/Users/medlu/Workspace/Code/FileIO/FileIO/obj/Debug/netcoreapp2.2/FileIO.csprojAssemblyReference.cache
+/Users/medlu/Workspace/Code/FileIO/FileIO/obj/Debug/netcoreapp2.2/FileIO.csproj.CoreCompileInputs.cache
+/Users/medlu/Workspace/Code/FileIO/FileIO/obj/Debug/netcoreapp2.2/FileIO.AssemblyInfoInputs.cache
+/Users/medlu/Workspace/Code/FileIO/FileIO/obj/Debug/netcoreapp2.2/FileIO.AssemblyInfo.cs
+/Users/medlu/Workspace/Code/FileIO/FileIO/bin/Debug/netcoreapp2.2/FileIO.deps.json
+/Users/medlu/Workspace/Code/FileIO/FileIO/bin/Debug/netcoreapp2.2/FileIO.runtimeconfig.json
+/Users/medlu/Workspace/Code/FileIO/FileIO/bin/Debug/netcoreapp2.2/FileIO.runtimeconfig.dev.json
+/Users/medlu/Workspace/Code/FileIO/FileIO/bin/Debug/netcoreapp2.2/FileIO.dll
+/Users/medlu/Workspace/Code/FileIO/FileIO/bin/Debug/netcoreapp2.2/FileIO.pdb
+/Users/medlu/Workspace/Code/FileIO/FileIO/obj/Debug/netcoreapp2.2/FileIO.dll
+/Users/medlu/Workspace/Code/FileIO/FileIO/obj/Debug/netcoreapp2.2/FileIO.pdb
